@@ -1,4 +1,4 @@
-# appnewui
+# NOTIFYX-COLLEGE OFFICIAL APPLICATION
 
 A new Flutter projects.
 
