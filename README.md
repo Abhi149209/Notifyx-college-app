@@ -1,29 +1,94 @@
-# NOTIFYX-COLLEGE OFFICIAL APPLICATION
 
-A new Flutter projects.
+# NotifyX-The College App
 
-## Getting Started
+Notifyx is a college app that helps students stay organized and informed. With Notifyx, you can:
 
-This  project is a starting point for a Flutter application.
+- View your timetable in a clear and easy-to-read format.
+- Get directions to your classes with the built-in map.
+- Receive notifications about upcoming events and deadlines.
+- Stay connected with your classmates through the forum and chat   features.
+- Access your grades and other academic information.
 
-A few resources to get you started if this is your first Flutter project:
+Notifyx is built using Flutter and Firebase, so it's fast, reliable, and secure. And since it's cloud-based, you can access it from anywhere.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![WhatsApp Image 2022-07-14 at 2 50 50 AM](https://user-images.githubusercontent.com/72963525/184364826-d8864399-6443-4189-a774-7b850485f6f2.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 51 AM (1)](https://user-images.githubusercontent.com/72963525/184364842-e78d5e62-96e1-4216-ada7-450ccc11dc3d.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 51 AM (2)](https://user-images.githubusercontent.com/72963525/184364861-7dd1aab5-f02a-4c0d-96ed-1d9edae061de.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 54 AM](https://user-images.githubusercontent.com/72963525/184364927-5606a3e2-6b53-4ee7-be3f-572aafc1ca97.jpeg)
+Whether you're a first-year student or a seasoned veteran, Notifyx is the perfect app to help you stay on top of your college life.
 
 
-![WhatsApp Image 2022-07-14 at 2 50 51 AM](https://user-images.githubusercontent.com/72963525/184365592-70af49a7-e3da-4d72-93cc-ee08f31c0bc3.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 52 AM (1)](https://user-images.githubusercontent.com/72963525/184365682-ff59cb71-1054-4ae5-8a8b-a87ce1480cc8.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 52 AM](https://user-images.githubusercontent.com/72963525/184365728-e1d11bd8-dcf8-4be1-8cb1-12a4093e0050.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 53 AM (1)](https://user-images.githubusercontent.com/72963525/184365787-7f18cb89-40ae-4169-bbcb-753a3afb8933.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 53 AM (2)](https://user-images.githubusercontent.com/72963525/184365868-6968d390-e74c-4e2b-b117-aa6967dd3d9a.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 53 AM](https://user-images.githubusercontent.com/72963525/184365908-a3d42bca-3101-4aba-a2b2-5b7b1e340f7a.jpeg)
-![WhatsApp Image 2022-07-14 at 2 50 54 AM](https://user-images.githubusercontent.com/72963525/184365944-935dde14-4354-46da-9104-bb11ff93e4bb.jpeg)
+
+## Features
+
+- Timetable: View your timetable in a clear and easy-to-read format.
+- Map: Get directions to your classes, labs & halls.
+- Notifications: Receive notifications about upcoming events and deadlines.
+- Forum: Stay connected with your classmates through the forum.
+- Grades: Access your grades and other academic information.
+
+
+
+
+## Contributors
+
+- [@Tanay-Gupta](https://github.com/Tanay-Gupta)
+- [@Abhi149209](https://github.com/Abhi149209)
+- [@carbseater](https://github.com/carbseater)
+- [@GeekyMonk07](https://github.com/GeekyMonk07)
+
+
+## Screenshots
+
+![App Screenshot](Screenshots/1.png)
+![App Screenshot](Screenshots/2.png)
+![App Screenshot](Screenshots/3.png)
+![App Screenshot](Screenshots/4.png)
+![App Screenshot](Screenshots/5.png)
+![App Screenshot](Screenshots/6.png)
+![App Screenshot](Screenshots/7.png)
+
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Tanay-Gupta/NotifyxCollegeApp
+
+
+```
+
+Go to the project directory
+
+```bash
+  cd NotifyxCollegeApp
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+
+```
+
+Run the app:
+
+```bash
+  flutter run
+
+```
+
+
+## Contributing
+
+Contributions are welcome! If you have any feature requests or bug reports, please feel free to open an issue or a pull request.
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
