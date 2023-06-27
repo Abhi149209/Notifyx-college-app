@@ -43,6 +43,8 @@ Whether you're a first-year student or a seasoned veteran, Notifyx is the perfec
 ![App Screenshot](Screenshots/5.png)
 ![App Screenshot](Screenshots/6.png)
 ![App Screenshot](Screenshots/7.png)
+![App Screenshot](Screenshots/8.png)
+![App Screenshot](Screenshots/9.png)
 
 
 
